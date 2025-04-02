@@ -52,12 +52,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/VinhQuaan/count.svg?"  />
-</div>
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinhQuaan/VinhQuaan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinhQuaan/VinhQuaan/output/pacman-contribution-graph.svg">
