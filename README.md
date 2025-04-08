@@ -9,9 +9,8 @@
 
 ###
 
-<div style="width: fit-content; height: 100px; overflow: hidden;">
-  <img align="right" src="https://i.imgflip.com/9pfs8e.gif" />
-</div>
+<img align="right" src="https://i.imgflip.com/9pfs8e.gif" 
+     style="clip-path: inset(0px 0px 60px 0px); position: relative;" />
 
 ###
 
