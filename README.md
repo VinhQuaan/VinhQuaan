@@ -9,7 +9,7 @@
 
 ###
 
-<div style="height: 10%; overflow: hidden;">
+<div style="width: fit-content; height: 100px; overflow: hidden;">
   <img align="right" src="https://i.imgflip.com/9pfs8e.gif" />
 </div>
 
