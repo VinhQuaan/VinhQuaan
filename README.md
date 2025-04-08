@@ -10,7 +10,7 @@
 ###
 
 <div style="height: 10%; overflow: hidden;">
-  <img align="right" src="https://i.imgflip.com/9pfs8e.gif" style="height: auto; width: 100%;" />
+  <img align="right" src="https://i.imgflip.com/9pfs8e.gif" />
 </div>
 
 ###
