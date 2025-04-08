@@ -9,7 +9,7 @@
 
 ###
 
-<div style="height: 50px; overflow: hidden;">
+<div style="height: 10px; overflow: hidden;">
   <img align="right" src="https://i.imgflip.com/9pfs8e.gif" alt="cut gif" />
 </div>
 
