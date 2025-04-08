@@ -9,8 +9,10 @@
 
 ###
 
-<img align="right" src="https://i.imgflip.com/9pfs8e.gif" 
-     style="clip-path: inset(0px 0px 60px 0px); position: relative;" />
+<div style="height: 100px; overflow: hidden; text-align: right;">
+  <img src="https://i.imgflip.com/9pfs8e.gif" 
+       style="transform: translateY(-20px);" />
+</div>
 
 ###
 
