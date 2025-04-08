@@ -9,8 +9,8 @@
 
 ###
 
-<div style="height: 10px; overflow: hidden;">
-  <img align="right" src="https://i.imgflip.com/9pfs8e.gif" alt="cut gif" />
+<div style="height: 70%; overflow: hidden;">
+  <img align="right" src="https://i.imgflip.com/9pfs8e.gif" style="height: auto; width: 100%;" />
 </div>
 
 ###
