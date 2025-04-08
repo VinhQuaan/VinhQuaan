@@ -9,10 +9,9 @@
 
 ###
 
-<div style="width: auto; height: 100px; overflow: hidden;">
+<div style="height: 100px; overflow: hidden;">
   <img src="https://i.imgflip.com/9pfs8e.gif" alt="cut gif" />
 </div>
-
 
 ###
 
