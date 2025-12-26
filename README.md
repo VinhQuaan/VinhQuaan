@@ -3,9 +3,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinhQuaan&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true" height="150" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VinhQuaan&theme=dracula" height="150" alt="stats card" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VinhQuaan&layout=compact&theme=dracula&hide_border=false&langs_count=5" height="150" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VinhQuaan&theme=dracula" height="150" alt="languages card" />
 </div>
 
 ###
